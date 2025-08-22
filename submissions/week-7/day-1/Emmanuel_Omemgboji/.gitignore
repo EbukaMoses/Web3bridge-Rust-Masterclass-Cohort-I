@@ -1,8 +1,0 @@
-# Rust's output directory
-target
-
-# Local settings
-.soroban
-.stellar
-.DS_Store
-**/test_snapshots/

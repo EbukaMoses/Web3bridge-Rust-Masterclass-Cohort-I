@@ -1,1 +1,0 @@
-![GitHub code output](https://github.com/methu-ship/uploads/blob/main/Screenshot%202025-07-09%20at%2006.56.16.png "Output of the code")

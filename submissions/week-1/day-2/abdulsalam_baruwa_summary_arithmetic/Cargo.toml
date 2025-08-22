@@ -1,6 +1,0 @@
-[package]
-name = "abdulsalam_baruwa_summary_arithmetic"
-version = "0.1.0"
-edition = "2024"
-
-[dependencies]
